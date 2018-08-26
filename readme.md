@@ -1,8 +1,4 @@
-##bug报告
 
-1. issue
-2. pull request
-3. 联系 颜登程<yanzhou@mail.ustc.edu.cn>
 
 ##使用说明
 
